@@ -1,4 +1,4 @@
-# MINERIA DE DATOS
+# **MINERIA DE DATOS**
 Archivos de Míneria de datos de Mara Anahí Martínez Cervantes, estudiante de Actuaría.  
 -*[Examen diagnostico](https://github.com/MaraMtz/MINERIA_DE_DATOS/blob/main/Examen_1798584.pdf)* 
 
