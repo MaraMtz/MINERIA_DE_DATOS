@@ -12,4 +12,4 @@ Archivos de Míneria de datos de Mara Anahí Martínez Cervantes, estudiante de 
 ## *FASE II*  
 - [Presentacion Reglas de Asociacion](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/Presentaci%C3%B3n_ReglasdeAsociaci%C3%B3n_Equipo5.pdf)   
 - [Preguntas Reglas de Asociacion](https://github.com/SebastianCanizales/SebastianCan/blob/main/Preguntas_Equipo5.pdf)   
-- [Ejemplo Reglas de Aasociacion](https://github.com/lluviaeliiza/Mineria-de-Datos/blob/main/C%C3%B3digo_de_la_presentaci%C3%B3n.ipynb)   
+- [Ejemplo Reglas de Asociacion](https://github.com/lluviaeliiza/Mineria-de-Datos/blob/main/C%C3%B3digo_de_la_presentaci%C3%B3n.ipynb)   
