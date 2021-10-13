@@ -16,3 +16,7 @@ Archivos de Míneria de datos de Mara Anahí Martínez Cervantes, estudiante de 
 - [Practica de Visualizacion](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/Pr%C3%A1ctica_Visualizaci%C3%B3n.ipynb) 
 - [Segundo Avance PIA](https://github.com/lluviaeliiza/Mineria-de-Datos/blob/main/Segundo_Avance_PIA.ipynb) 
 - [Segundo Avance PIA Corergido](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/Segundo_Avance_PIA_CORREGIDO.ipynb)  
+
+## *FASE III*  
+- [Ejercicio de tecnicas (Base secundaria)](https://github.com/SebastianCanizales/SebastianCan/blob/main/Ej_Tecnicas_Mineria.ipynb)  
+- [Ejercicio de tecnicas (Base primaria)](https://github.com/SebastianCanizales/SebastianCan/blob/main/Ejercicio_de_t%C3%A9cnicas_de_miner%C3%ADa%201era%20base%20(no%20correcta).ipynb)  
