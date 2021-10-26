@@ -23,4 +23,4 @@ Archivos de Míneria de datos de Mara Anahí Martínez Cervantes, estudiante de 
 
 ## ***PIA***  
 - [Notebook final](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/PREDICCI%C3%93N_DE_INSUFICIENCIA_CARDIACA.ipynb)   
-- [Poster](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/POSTER%20MINERIA.pdf)
+- [Poster](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/PREDICCI%C3%93N%20DE%20INSUFICIENCIA%20CARDIACA.pdf)
